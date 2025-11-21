@@ -74,6 +74,16 @@ CONTENT_BY_LABEL: dict[str, dict[str, list[str]]] = {
     #   "images": ["https://.../jjampong1.jpg", "https://.../jjampong2.jpg"],
     #   "videos": ["https://youtu.be/XXXXXXXXXXX"]
     # },
+labels[0] : {"texts" : ["중국식 냉면은 맛있어"], images" : ["https://search.pstatic.net/common/?src=http%3A%2F%2
+labels[1] : {"texts" : ["짜장면은 맛있어"],"images": ["https://search.pstatic.net/common/?src=http%3A%2F%2Fshol
+labels[2] : {"texts" : ["*2 9t20"], "images" : ["https://search.pstatic.net/common/?src=http%34%2F%2Fb1ogf
+labels[3] : {"texts": ["8492 920|"I "images" : ["https://search.pstatic.net/common/?src=http%3A%2F%2Fb10/
+}
+#====
+# 유틸
+#=====
+trol + Shift + m
+to toggle the tab key moving focus. Alternatively, use esc then tab to move to  
 }
 
 # ======================
